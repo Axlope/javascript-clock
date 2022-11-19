@@ -1,4 +1,4 @@
-# JavaScript Ödev 1 - Clock
+# JavaScript Project 1 - Clock
 
 Bu repository'de Kodluyoruz.org ve Patika.dev işbirliğiyle, "Başlangıç Seviye Frontend Web Development Patikası" içerisinde bulunan "JavaScript" konusunun ilk ödevini yaptım.
 
